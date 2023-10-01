@@ -6,7 +6,7 @@ Open-source **Flask/Jinja Template** provided by `AppSeed` on top of **[Soft UI 
 
 The project is a super simple Flask project WITHOUT database, ORM, or any other hard dependency - Design from **[Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200)**.
 
-> Features
+## Features
 
 - ✅ `Up-to-date dependencies` using a **Flask v3.0.0** compatible stack
 - ✅ Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
